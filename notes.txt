@@ -1,0 +1,12 @@
+Product Sales Forecast
+
+
+1. A1, D2, E3, G4, B5, K6, F7, H8, C9 (Are custom sales products)
+    -When click on custom sales product then you get prices under custom sales products
+    -After collect the prices press <Press for results> button
+    -And show results as plot(Bar Chart)
+
+2. From file (Only CSV file)
+    -Browse csv file from your computer with three columns values
+    -After browse file press <Press for results> button
+    -And show results as plots (Bar Chart, Line Chart, Scatter Chart, Pie Chart)
